@@ -1,0 +1,13 @@
+/*style.css*/
+.inverted,.btnSecond {
+    font-size: 28px; font-family: "Helvetica", "Times New Roman", 
+    sans-serif;
+}
+
+.inverted {
+    background-color: black;color: white;
+}
+
+.btnSecond {
+    background-color: yellow;
+}
